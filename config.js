@@ -11,7 +11,7 @@ var config = {
     use3dTerrain: true, //set true for enabling 3D maps.
     title: 'AFRICA GIS DISTRICT PLANNING TOOL',
     subtitle: 'Geographic Intelligence for sustainable development decisions',
-    byline: 'By I4DS | URGR | JER',
+    byline: 'By I4DS | UGR | JER',
     footer: 'Source: (citar créditos) <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a>',
     chapters: [
         {
