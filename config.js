@@ -19,7 +19,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Education | Health | Water Utilities',
-            image: 'F:/MAPBOX/sample_original/storytelling-main/src/images/arcgis-dashboard-tcs-interactive.jpg',
+            image: '../images/arcgis-dashboard-tcs-interactive.jpg',
             description: 'Data driven <b>Geographic Information System </b>based on three different kind of data sources: Public Open Data from Spatial Data Infrastructures; Inner Data collected from Goverment and Public Administrations; and specific surveys on field.',
             location: {
                 center: [2.34399, 3.22874],
