@@ -19,7 +19,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Education | Health | Water Utilities',
-            image: 'https://github.com/JuanEsteller/district_planning/tree/main/images/arcgis-dashboard-tcs-interactive.jpg',
+            image: 'images/arcgis-dashboard-tcs-interactive.jpg',
             description: 'Data driven <b>Geographic Information System </b>based on three different kind of data sources: Public Open Data from Spatial Data Infrastructures; Inner Data collected from Goverment and Public Administrations; and specific surveys on field.',
             location: {
                 center: [2.34399, 3.22874],
@@ -49,7 +49,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Education Module',
-            image: 'https://github.com/JuanEsteller/district_planning/tree/main/images/pexels-photo-8948347.jpeg',
+            image: 'images/pexels-photo-8948347.jpeg',
             description: 'Idea/imagen fuerza sobre gestión Educativa.',
             location: {
                 center: [31.79057, 3.37179],
@@ -74,7 +74,7 @@ var config = {
             alignment: 'left',
             hidden: false,
             title: 'Health Module',
-            image: 'https://github.com/JuanEsteller/district_planning/tree/main/images/Mozambique-clinic-470x313-2.jpg',
+            image: 'images/Mozambique-clinic-470x313-2.jpg',
             description: 'Idea/Imagen fuerza sobre gestión Educativa..',
             location: {
                 center: [31.79275, 3.37253],
@@ -93,7 +93,7 @@ var config = {
             alignment: 'fully',
             hidden: false,
             title: 'Water Management',
-            image: 'https://github.com/JuanEsteller/district_planning/tree/main/images/macro-reflection-splash-45229.jpg',
+            image: 'images/macro-reflection-splash-45229.jpg',
             description: 'Idea fuerza sobre gestión del ciclo del agua.',
             location: {
                 center: [31.77557, 3.51761],
